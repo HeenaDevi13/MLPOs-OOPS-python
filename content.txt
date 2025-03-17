@@ -1,0 +1,10 @@
+class and object example
+class has data /attributes and it has functions and methods
+    > code walkthrough
+    > attributes get called inself,methods are called manually.
+why python is called object oriented programming/OOP?- everything in python is object(data structure,data type, etc)
+Advantages:
+  >can create your own datatype.
+  >code reusability
+  >debugging
+  >easy to colab
